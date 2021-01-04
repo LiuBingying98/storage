@@ -1,3 +1,4 @@
+#split 1000 molecules into 100 each file and delete designated molecules
 filename = "1000_charged.mol2"
 
 def flush(div, index):
